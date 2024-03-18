@@ -3,3 +3,6 @@ def hello():
 
 def bye():
     return "Goodbye, world!"
+
+def update():
+    return "Update, world!"
